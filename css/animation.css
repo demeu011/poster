@@ -65,7 +65,7 @@
 }
 @font-face {
 	font-family: blah;
-	src:url(../fonts/TradeGothicLTStd-Cn18.otf)
+	src:url(../fonts/blah.otf)
 }
 
 body {
@@ -78,13 +78,13 @@ body {
   -webkit-transform: translate3d(0,0,0);
 }
 h1 {
-  font-family: TradeGothicLTStd-Cn18;
+  font-family: blah;
 	font-size: 320px;
 	color: #ff6861;
 	z-index: 0;
 }
 h2 {
-  font-family: TradeGothicLTStd-Cn18;
+  font-family: blah;
 	font-size: 75px;
 	color: #231f20;
 	z-index: 1;
@@ -92,7 +92,7 @@ h2 {
 p {
   font-size: 22px;
   color: #231f20;
-  font-family: TradeGothicLTStd-Cn18;
+  font-family: blah;
   line-height: 30px;
 	z-index: 1;
 	position: relative;
